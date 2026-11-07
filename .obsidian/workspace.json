@@ -4,53 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "6a2ed1afda638779",
+        "id": "784fe066e0f7f9b9",
         "type": "tabs",
         "children": [
           {
-            "id": "35c7acba667e993c",
+            "id": "61558b9890017e42",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Алгоритмы/Map (реализация хэш-таблицы в Go).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Map (реализация хэш-таблицы в Go)"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           },
           {
-            "id": "c9c8632ac156dc50",
+            "id": "7ca297ee9aaf37c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Алгоритмы/Быстрая сортировка.md",
+                "file": "Алгоритмы/Жадные алгоритмы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Быстрая сортировка"
-            }
-          },
-          {
-            "id": "87b6ffa1ca3f7585",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Конкурентность/Каналы.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Каналы"
+              "title": "Жадные алгоритмы"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,24 +198,27 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "87b6ffa1ca3f7585",
+  "active": "61558b9890017e42",
   "lastOpenFiles": [
+    "Алгоритмы/Алгоритм Дейкстры.md",
+    "Алгоритмы/Жадные алгоритмы.md",
     "Алгоритмы/Map (реализация хэш-таблицы в Go).md",
+    "Алгоритмы/Граф. Поиск в ширину. Очередь.md",
+    "Конкурентность/Отличие от JS.md",
+    "Конкурентность/Горутины.md",
+    "Алгоритмы/Бинарный поиск.md",
+    "Конкурентность/Каналы.md",
     "Алгоритмы/Быстрая сортировка.md",
     "Алгоритмы/Рекурсия.md",
     "Pasted image 20261014214248.png",
     "Pasted image 20261014214251.png",
     "Алгоритмы/Сортировка выбором.md",
-    "Конкурентность/Отличие от JS.md",
-    "Алгоритмы/Бинарный поиск.md",
-    "Конкурентность/Каналы.md",
     "Конкурентность",
     "Алгоритмы",
     "Конкурентность/Mutex.md",
     "Конкурентность/WaitGroup.md",
     "Конкурентность/Race Condition.md",
     "Конкурентность/RWMutex.md",
-    "Конкурентность/Горутины.md",
     "Горутины (go).md"
   ]
 }
